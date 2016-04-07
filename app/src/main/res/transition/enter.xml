@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionManager xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/bounce"
+    >
+    <transition
+        android:fromScene="@android:transition/fade"
+        android:toScene="@android:transition/fade">
+    </transition>
+</transitionManager>
